@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_threejs_ai/assets/151519281/a7ad05c5-28a5-423f-b6ac-c98f8a5c428a" alt="Project Banner">
+      <img src="https://github.com/Dharmander39/3D-shirt/blob/main/Projrct22.PNG">
     </a>
   <br />
  
